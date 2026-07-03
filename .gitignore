@@ -1,0 +1,17 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Sistema
+.DS_Store
+Thumbs.db
+EOF
