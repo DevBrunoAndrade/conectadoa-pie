@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # ConectaDoa – Sistema de Gestão de Doações
 
 Sistema web desenvolvido como Projeto Integrador (PIE I – ADS)
