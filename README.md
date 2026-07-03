@@ -15,4 +15,3 @@ de doadores e o registro de doações.
 3. `pip install -r backend/requirements.txt`
 4. Execute: `python backend/app.py`
 5. Acesse: http://localhost:5000
-EOF
